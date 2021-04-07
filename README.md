@@ -26,7 +26,7 @@ A **PyBer Summary DataFrame** has been created, which displays the ride sharing 
 This DataFrame has **Total Rides**, **Total Drivers**, **Total Fares**, **Average Fare Per Ride** and **Average Fare Per Driver** for every **City type**. 
 
 
-![PyBer_Summary_DataFrame](https://github.com/kirtibhandari/Pyber_Analysis/blob/main/Resources/Pyber_Summary_DataFrame.png)
+![PyBer_Summary_DataFrame](https://github.com/kirtibhandari/Pyber_Analysis/blob/main/Resources/DataFrame_Pyber_Summary.png)
 
 
 Secondly, we have summarized the data on the basis of weeks for first four months of year 2019 and the type of city where we have weekly fares earned by drivers providing PyBer ride-sharing services in rural cities, suburban cities and Urban cities.
