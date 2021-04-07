@@ -1,6 +1,6 @@
 # **PyBer_Analysis**
 ## **Project Overview** 
-We have been assigned a project from a ride-sharing service provider 'PyBer' to analyse the data based upon cities and rides in these cities, in tabular format, with thousands of rows.
+We have been assigned a project from a ride-sharing service provider 'PyBer' to analyse the data based upon cities and rides, in tabular format, with thousands of rows.
 
 The analysis outcome is required to be able to communicate findings in such a manner that it is understandable, informative and that it can engage its stakeholders to enable them to make key decisions for **Access** and **Affordability** of their ride-sharing service depending upon the type of cities where these services are being offered.
 
